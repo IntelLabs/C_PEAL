@@ -1,6 +1,6 @@
 # Optimizing Active Learning in Vision-Language Models via Parameter-Efficient Uncertainty Calibration
-![GitHub License](https://img.shields.io/github/license/IntelLabs/C_PEAL)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/IntelLabs/C_PEAL/badge)](https://scorecard.dev/viewer/?uri=github.com/IntelLabs/C_PEAL)
+![GitHub License](https://img.shields.io/github/license/IntelLabs/C_PEAL?style=flat)
+![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/IntelLabs/C_PEAL/badge)
 <!-- UNCOMMENT AS NEEDED
 [![Unit Tests](https://github.com/IntelLabs/ConvAssist/actions/workflows/run_unittests.yaml/badge.svg?branch=covassist-cleanup)](https://github.com/IntelLabs/ConvAssist/actions/workflows/run_unittests.yaml)
 [![pytorch](https://img.shields.io/badge/PyTorch-v2.4.1-green?logo=pytorch)](https://pytorch.org/get-started/locally/)
