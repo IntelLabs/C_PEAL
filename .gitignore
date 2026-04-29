@@ -3,3 +3,10 @@
 *.pdf
 *.png
 dassl
+DATA/caltech-101
+DATA/dtd
+DATA/eurosat
+DATA/fgvc_aircraft
+DATA/oxford_flowers
+DATA/oxford_pets
+results
