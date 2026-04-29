@@ -14,11 +14,11 @@ Stay tuned! The code will be released soon.
 ## Abstract
 Active Learning (AL) has emerged as a powerful approach for minimizing labeling costs by selectively sampling the most informative data for neural network model development. Effective AL for large-scale vision-language models necessitates addressing challenges in uncertainty estimation and efficient sampling given the vast number of parameters involved. In this work, we introduce a novel parameter-efficient learning methodology that incorporates uncertainty calibration loss within the AL framework. We propose a differentiable loss function that promotes uncertainty calibration for effectively selecting fewer and most informative data samples for fine-tuning. Through extensive experiments across several datasets and vision backbones, we demonstrate that our solution can match and exceed the performance of complex feature-based sampling techniques while being computationally very efficient. Additionally, we investigate the efficacy of Prompt learning versus Low-rank adaptation (LoRA) in sample selection, providing a detailed comparative analysis of these methods in the context of efficient AL.
 
-## Installation (Linux)
+## Installation 
 
 ```bash
 # Clone this repository and enter it
-git clone <this-repo-url> C_PEAL
+git clone https://github.com/IntelLabs/C_PEAL.git C_PEAL
 cd C_PEAL
 
 # Create and activate environment
@@ -42,7 +42,8 @@ git clone https://github.com/KaiyangZhou/Dassl.pytorch.git src/dassl
 ## Credits
 
 This code is built on the [CoOp repository](https://github.com/KaiyangZhou/CoOp).
-
+This code is built on the [Dassl](https://github.com/KaiyangZhou/Dassl.pytorch.git).
+This code is built on the [Active Prompt Learning] (https://github.com/kaist-dmlab/pcb).
 
 ## Citation
 If you find this work useful, please consider citing our previous works:
