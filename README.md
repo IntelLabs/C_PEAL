@@ -43,7 +43,7 @@ git clone https://github.com/KaiyangZhou/Dassl.pytorch.git src/dassl
 
 This code is built on the [CoOp repository](https://github.com/KaiyangZhou/CoOp).
 This code is built on the [Dassl](https://github.com/KaiyangZhou/Dassl.pytorch.git).
-This code is built on the [Active Prompt Learning] (https://github.com/kaist-dmlab/pcb).
+This code is built on the [Active Prompt Learning](https://github.com/kaist-dmlab/pcb).
 
 ## Citation
 If you find this work useful, please consider citing our previous works:
