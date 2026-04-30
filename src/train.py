@@ -233,7 +233,7 @@ if __name__ == "__main__":
     parser.add_argument("--peft", action="store_true", help="Enable parameter-efficient fine-tuning.")
     parser.add_argument("--peftrank", type=int, default=4, help="learning rate" )
     parser.add_argument( "--lr", type=float, default=0.002, help="learning rate" )
-    parser.add_argument( "--cycles", type=int, default=8, help="learning rate" )
+    parser.add_argument( "--cycles", type=int, default=10, help="learning rate" )
     parser.add_argument( "opts", default=None, nargs=argparse.REMAINDER, help="modify config options using the command-line", )
 
     args = parser.parse_args()
