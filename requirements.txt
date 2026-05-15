@@ -1,0 +1,12 @@
+ftfy
+regex
+tqdm
+torch==2.6.0
+torchvision
+yacs
+tensorboard
+tabulate
+gdown
+wilds
+numpy
+peft
